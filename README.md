@@ -1,0 +1,1 @@
+# safari-html-css-resources
