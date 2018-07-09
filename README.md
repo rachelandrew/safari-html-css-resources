@@ -6,8 +6,8 @@ This page has some useful resources to go along with the course.
 
 To make it easier to follow along you can grab a file with all of the recipe example text and the example image here:
 
-* Recipe text
-* Example image
+* [Recipe text](course/recipe.txt)
+* [Example image](course/beets.jpg)
 
 ## Further reading
 
